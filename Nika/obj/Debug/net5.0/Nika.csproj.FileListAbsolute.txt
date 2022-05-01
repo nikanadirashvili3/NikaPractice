@@ -1,0 +1,16 @@
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.exe
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.deps.json
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.runtimeconfig.json
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.runtimeconfig.dev.json
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.dll
+C:\Users\nika\source\repos\Nika\Nika\bin\Debug\net5.0\Nika.pdb
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.csproj.AssemblyReference.cache
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.AssemblyInfoInputs.cache
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.AssemblyInfo.cs
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.csproj.CoreCompileInputs.cache
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.dll
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\refint\Nika.dll
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.pdb
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\Nika.genruntimeconfig.cache
+C:\Users\nika\source\repos\Nika\Nika\obj\Debug\net5.0\ref\Nika.dll
