@@ -8,7 +8,9 @@ namespace Nika
         {
             //Console.BackgroundColor = ConsoleColor.DarkBlue;
             //Console.WriteLine("Nika NadiraSvili");
-            Console.ReadLine();
+            //Console.ReadLine();
+
+            Console.WriteLine("new change from new branch");
         }
     }
 }
